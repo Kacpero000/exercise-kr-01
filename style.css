@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    background-color: #292727;
+}
+.header{
+    display: flex;
+    justify-content: flex-end;
+    height: 8vh;
+    width: 100vw;
+}
+.header__content{
+    height: 8vh;
+    width: 15vw;
+    border-bottom: 2px solid #ffffff;
+    display: flex;
+    justify-content: center;
+}
+.header__content > h4{
+    color: #ffffff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 5vh;
+    width: 5vw;
+    margin-top: 3vh;
+    text-shadow: 2px 2px 8px #ff0000;
+}
+.header__content > img{
+    height: 5vh;
+    width: 5vw;
+    margin-top: 1vh;
+}
+.main{
+    height: 84vh;
+    width: 100vw;
+}
+.main__content{
+    height: 84vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.main__content > h1{
+    margin: 0px;
+    color: #ffd000;
+    font-size: xxx-large;
+    text-shadow: 4px 4px 8px #ffd000;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.main__content > p{
+    margin: 0px;
+    color: #ffffff;
+    text-shadow: 4px 4px 8px #ffffff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.footer{
+    height: 8vh;
+    width: 100vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+.footer__content{
+    height: 8vh;
+    width: 20vw;
+    display: flex;
+    flex-direction: row;
+    border-top: 2px solid #ffffff;
+    justify-content: space-around;
+}
+.footer__content-item > h4{
+    color: #ffffff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 5vh;
+    width: 5vw;
+    text-shadow: 2px 2px 8px #ff0000;
+}
