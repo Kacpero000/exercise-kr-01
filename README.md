@@ -1,4 +1,4 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/Domun335/FLP-01/badge)](https://www.codefactor.io/repository/github/Domun335/FLP-01)
+[![CodeFactor](https://www.codefactor.io/repository/github/kacpero000/exercise-kr-01/bage)](https://www.codefactor.io/repository/github/kacpero000/exercise-kr-01)
 # Projekt: Odwzorowanie strony internetowej z serwisu figma
 
 Autor:  Dominik
